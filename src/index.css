@@ -1,0 +1,7 @@
+/* DaisyUI and Flowbite CSS */
+@import "daisyui/dist/full.css";
+@import "flowbite/dist/flowbite.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
