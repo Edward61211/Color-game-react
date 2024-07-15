@@ -19,8 +19,8 @@ function App() {
   return (
     <div className="bg-gradient-to-br from-red-300 via-purple-400 to-fuchsia-300 min-h-screen flex flex-col items-center justify-start">
       <h1 className="text-black text-4xl font-bold mt-10">
-        Hello Vite <img src="/vite.png" className="inline size-10" /> + React{" "}
-        <img src="/react.png" className="inline size-10" /> !
+        Hello Vite <img src="./public/vite.png" className="inline size-10" /> +
+        React <img src="./public/react.png" className="inline size-10" /> !
       </h1>
       <div className="w-full h-full flex items-center justify-around">
         <ColorGame
